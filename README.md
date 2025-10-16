@@ -1,31 +1,66 @@
-# ¡Hola! soy Felipe Celis Montoya
+# 👋 ¡Hola! Soy Felipe Celis Montoya
 
-## Desarrollador Frontend
-
-Soy un desarrollador frontend con experiencia en la creación de interfaces web dinámicas y responsivas. Tengo sólidos conocimientos en lenguajes de programación como JavaScript (JS), HTML y CSS, lo que me permite construir experiencias de usuario atractivas y funcionales.
-
-Además, cuento con habilidades en modelado de bases de datos relacionales utilizando el motor de base de datos MySQL, lo que me permite comprender y trabajar con el backend para integrar y optimizar aplicaciones web completas.
+Soy un **Desarrollador Frontend** apasionado por la creación de interfaces modernas, funcionales y optimizadas para ofrecer la mejor experiencia al usuario.  
+Me encanta trabajar con tecnologías web, diseñar experiencias intuitivas y escribir código limpio y mantenible.
 
 ---
 
-### Habilidades técnicas
+## 🧠 Tecnologías y Herramientas
 
-- **Lenguajes de programación:** JavaScript (JS), HTML5, CSS3  
-- **Bases de datos:** Modelado y gestión de bases de datos relacionales con MySQL  
-- **Desarrollo frontend:** Creación de interfaces responsivas y accesibles  
-- **Herramientas:** Uso de control de versiones Git, entornos de desarrollo y depuración web
+### 💻 Lenguajes de Programación
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+
+### 🗄️ Bases de Datos
+- Modelado de bases de datos **relacionales**
+- Motor de base de datos: **MySQL**
+
+### ⚙️ Otras Habilidades
+- Diseño responsivo (Mobile First)
+- Control de versiones con **Git/GitHub**
+- Frameworks y librerías modernas (React, TailwindCSS, Bootstrap, etc.)
+- Optimización de rendimiento y accesibilidad web
 
 ---
 
-### Estadísticas de GitHub
+## 🚀 Objetivos Profesionales
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=celisfelipe_GITHUB&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=celisfelipe_GITHUB&layout=compact&theme=radical)
+Mi objetivo es seguir creciendo como desarrollador, aportando soluciones creativas y eficientes en proyectos frontend.  
+Busco colaborar en equipos donde pueda aplicar mis conocimientos en **desarrollo web y bases de datos**, y seguir aprendiendo nuevas tecnologías.
 
 ---
 
-### Contacto
+## 📊 Estadísticas de GitHub
 
-- GitHub: [TU_USUARIO_GITHUB](https://github.com/celisfelipe_GITHUB)    
-- Email: celisfelipe37@gmail.com
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celisfelipe&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celisfelipe&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=celisfelipe&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📂 Repositorios Destacados
+
+[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=celisfelipe&repo=nombre-del-repositorio-1&theme=tokyonight)](https://github.com/TU_USUARIO/nombre-del-repositorio-1)  
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=celisfelipe&repo=nombre-del-repositorio-2&theme=tokyonight)](https://github.com/TU_USUARIO/nombre-del-repositorio-2)
+
+---
+
+## 🏆 Logros y Métricas
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=celisfelipe&theme=tokyonight&no-frame=true&row=1&margin-w=15)
+
+</div>
+
+---
+
+## 📫 Contacto
+- 📧 celisfelipe37@gmail.com
