@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 48" width="270" height="48" role="img" aria-label="Correo de Felipe Celis">
+  <style>
+    .mono{font-family:'Cascadia Code','Fira Code',Consolas,'Courier New',monospace}
+    .frame{fill:#0d1117;stroke:#30363d;stroke-width:1.5}
+    .run{fill:none;stroke:#f0b429;stroke-width:1.5;stroke-dasharray:18 640;animation:run 4s linear infinite 1s}
+    .node{fill:#f0b429;animation:pulse 2s ease-in-out infinite 1s}
+    .k{fill:#6e7b8b;font-size:12px}
+    .v{fill:#e6edf3;font-size:14px;font-weight:600}
+    @keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-658}}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  </style>
+  <rect class="frame" x="1" y="1" width="268" height="46" rx="10"/>
+  <rect class="run" x="1" y="1" width="268" height="46" rx="10"/>
+  <path d="M0 24 H14" stroke="#30363d" stroke-width="2"/>
+  <circle class="node" cx="22" cy="24" r="5"/>
+  <text x="38" y="20" class="mono k">// correo</text>
+  <text x="38" y="37" class="mono v">celisfelipe37@gmail.com</text>
+</svg>
