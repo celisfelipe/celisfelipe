@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180" role="img" aria-labelledby="rt rd">
+  <title id="rt">Ruta de aprendizaje de Felipe Celis Montoya</title>
+  <desc id="rd">Una corriente recorre la ruta Git, HTML y CSS, JavaScript, PHP, MySQL, Laravel y React, encendiendo cada etapa.</desc>
+  <style>
+    .mono{font-family:'Cascadia Code','Fira Code',Consolas,'Courier New',monospace}
+    .sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .bus{fill:none;stroke:#222b38;stroke-width:3}
+    .pulse{fill:none;stroke:#58a6ff;stroke-width:3;stroke-linecap:round;stroke-dasharray:5 100;stroke-dashoffset:5;animation:flow 7s linear infinite}
+    .chip{fill:#121822;stroke:#30363d;stroke-width:2;animation:lit 7s ease-out infinite}
+    .core{fill:#2b3545;animation:core 7s ease-out infinite}
+    .label{fill:#c9d1d9;font-size:15px;font-weight:600}
+    .next{fill:none;stroke:#f0b429;stroke-width:2;stroke-dasharray:4 4;animation:spin 6s linear infinite}
+    .nextcore{fill:#f0b429;animation:breathe 2s ease-in-out infinite}
+    .hint{fill:#f0b429;font-size:12px}
+    .head{fill:#6e7b8b;font-size:14px}
+    @keyframes flow{from{stroke-dashoffset:5}to{stroke-dashoffset:-100}}
+    @keyframes lit{0%{stroke:#58a6ff;fill:#13263d}18%,100%{stroke:#30363d;fill:#121822}}
+    @keyframes core{0%{fill:#58a6ff}18%,100%{fill:#2b3545}}
+    @keyframes spin{to{stroke-dashoffset:-32}}
+    @keyframes breathe{0%,100%{opacity:.35}50%{opacity:1}}
+  </style>
+
+  <rect width="1000" height="180" rx="16" fill="#0d1117"/>
+  <rect x=".5" y=".5" width="999" height="179" rx="16" fill="none" stroke="#30363d"/>
+  <text x="28" y="36" class="mono head">// ruta de aprendizaje</text>
+
+  <path class="bus" d="M40 92 H960"/>
+  <path class="pulse" d="M40 92 H960" pathLength="100"/>
+
+  <g>
+    <rect class="chip" x="72" y="74" width="36" height="36" rx="8" style="animation-delay:.27s"/>
+    <circle class="core" cx="90" cy="92" r="5" style="animation-delay:.27s"/>
+    <text x="90" y="138" text-anchor="middle" class="sans label">Git</text>
+
+    <rect class="chip" x="207" y="74" width="36" height="36" rx="8" style="animation-delay:1.29s"/>
+    <circle class="core" cx="225" cy="92" r="5" style="animation-delay:1.29s"/>
+    <text x="225" y="138" text-anchor="middle" class="sans label">HTML y CSS</text>
+
+    <rect class="chip" x="342" y="74" width="36" height="36" rx="8" style="animation-delay:2.32s"/>
+    <circle class="core" cx="360" cy="92" r="5" style="animation-delay:2.32s"/>
+    <text x="360" y="138" text-anchor="middle" class="sans label">JavaScript</text>
+
+    <rect class="chip" x="477" y="74" width="36" height="36" rx="8" style="animation-delay:3.35s"/>
+    <circle class="core" cx="495" cy="92" r="5" style="animation-delay:3.35s"/>
+    <text x="495" y="138" text-anchor="middle" class="sans label">PHP</text>
+
+    <rect class="chip" x="612" y="74" width="36" height="36" rx="8" style="animation-delay:4.38s"/>
+    <circle class="core" cx="630" cy="92" r="5" style="animation-delay:4.38s"/>
+    <text x="630" y="138" text-anchor="middle" class="sans label">MySQL</text>
+
+    <rect class="chip" x="747" y="74" width="36" height="36" rx="8" style="animation-delay:5.4s"/>
+    <circle class="core" cx="765" cy="92" r="5" style="animation-delay:5.4s"/>
+    <text x="765" y="138" text-anchor="middle" class="sans label">Laravel</text>
+
+    <rect x="882" y="74" width="36" height="36" rx="8" fill="#121822"/>
+    <rect class="next" x="882" y="74" width="36" height="36" rx="8"/>
+    <circle class="nextcore" cx="900" cy="92" r="5"/>
+    <text x="900" y="138" text-anchor="middle" class="sans label">React</text>
+    <text x="900" y="158" text-anchor="middle" class="mono hint">próximo</text>
+  </g>
+</svg>
