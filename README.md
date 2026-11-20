@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Felipe%20Celis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:celisfelipe37@gmail.com"><img src="https://img.shields.io/badge/Gmail-celisfelipe37-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
-  <img src="https://img.shields.io/badge/Medellín-Colombia-f0b429?style=for-the-badge" alt="Medellín, Colombia">
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="./btn-linkedin.svg" alt="LinkedIn: Felipe Celis" height="48"></a>
+  <a href="mailto:celisfelipe37@gmail.com"><img src="./btn-correo.svg" alt="Correo: celisfelipe37@gmail.com" height="48"></a>
 </p>
 
 ---
@@ -20,6 +19,7 @@ Me interesa el desarrollo web y la gestión de bases de datos. Disfruto converti
 
 | | |
 | --- | --- |
+| **Ubicación** | Medellín, Colombia |
 | **Formación** | Tecnólogo en Análisis y Desarrollo de Software · SENA · 2025 – 2027 |
 | **Base técnica** | Bachiller técnico en Electricidad · articulación con el SENA |
 | **Enfoque** | Desarrollo web · Backend con PHP y Laravel · Bases de datos |
